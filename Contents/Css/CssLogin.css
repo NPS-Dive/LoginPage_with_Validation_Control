@@ -1,0 +1,14 @@
+﻿.divForm {
+    width: 30%;
+    margin: auto;
+    margin-top: 150px;
+    background-color: aquamarine;
+    font-family:'Comic Sans MS';
+    font-size: xx-large;
+    text-align: center;
+    padding: 10px;
+}
+.validators{
+    color:red;
+    font-size:small;
+}
